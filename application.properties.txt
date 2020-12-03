@@ -1,5 +1,0 @@
-gateway.ip = 192.168.2.81
-login.url.path = /user/login
-
-token.expiration_time = 86400000
-token.secret = kjskds5544sdk
