@@ -1,1 +1,1 @@
-# HRMManagementCconfiguration
+# HRMManagementConfiguration
